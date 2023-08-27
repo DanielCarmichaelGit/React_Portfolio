@@ -1,0 +1,22 @@
+
+    // e.preventDefault();
+
+    // // get description from chatGPT
+    // if (!jobDescription && jobTitle) {
+    //   const res = await askGPT(
+    //     `describe the daily duties in a bulleted list for a/an ${jobTitle}.
+    //             The resulting list should resemble the following list...
+    //             Create and maintain programs or applications.
+    //             Developing computer software individually or with a team for a particular purpose.
+    //             Design and develop and modify computer or application software or systems.
+    //             Design and develop specialized applications to meet particular customer requirements.
+    //     `,
+    //     "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",
+    //     "https://api.openai.com/v1/engines/davinci/completions",
+    //     150
+    //   );
+
+    //   console.log(res);
+    // }
+
+    // // post to MongoDB

@@ -1,0 +1,23 @@
+.stickyButton {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+    color: dodgerblue;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    font-size: 24px;
+    outline: none;
+    transition: background-color 0.3s ease;
+}
+
+.stickyButton:hover {
+    background-color: gainsboro;
+}
